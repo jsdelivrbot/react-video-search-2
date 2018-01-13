@@ -1,5 +1,5 @@
 # react-video-search
-Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Application that allows users to search for youtube videos.
 
 ```
 > npm install
